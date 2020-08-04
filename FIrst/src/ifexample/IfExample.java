@@ -3,6 +3,7 @@ package ifexample;
 public class IfExample {
 
 	public static void main(String[] args) {
+		
 		int score = 101;
 		char grade;
 		

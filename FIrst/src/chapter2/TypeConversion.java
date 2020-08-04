@@ -2,6 +2,7 @@ package chapter2;
 
 public class TypeConversion {
 	public static void main(String[] args) {
+		
 		/*
 		 * 형 변환
 		 * 1. 바이트 크기가 작은 자료형에서 큰 자료형으로 형 변환은 자동으로 이루어진다.

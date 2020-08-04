@@ -3,6 +3,7 @@ package operator;
 public class OperationEx2 {
 
 	public static void main(String[] args) {
+		
 		int gameScore = 150;			// 게임에서 획득한 점수는 150점
 		
 //		int lastScore1 = ++gameScore;	// gameScore에 1만큼 더한 값을 lastScore1에 대입

@@ -3,6 +3,7 @@ package ifexample;
 public class IfExample2 {
 
 	public static void main(String[] args) {
+		
 		int age = 9;
 		int charge;
 		

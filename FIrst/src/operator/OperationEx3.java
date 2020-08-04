@@ -3,6 +3,7 @@ package operator;
 public class OperationEx3 {
 
 	public static void main(String[] args) {
+	
 		int num1 = 10;
 		int i = 2;
 		
